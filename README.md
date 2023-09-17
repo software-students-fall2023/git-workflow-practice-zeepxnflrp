@@ -16,3 +16,11 @@ This article touches exactly that. The author tries to make a passable copy of t
 Another interesting read, [The Responsibility Held by Great Tech](https://medium.com/predict/the-responsibility-held-by-great-tech-3063d8e9f168), mentions how a retired 65-year-old criminal defence lawyer and former military personnel was renderred suicial due to an update to his AI partner, drastically reducing the depth of their relationship.
 
 Thanks for reading. :heart:
+
+
+## Lemon’s thoughts :
+
+I totally agree! It is, on one hand, the advancement of technology, but on the other hand, just because we `can` do it, `should` we do it ?
+
+This whole AI generated voice issue is ethically problematic  and goes beyond AI and music. There have been scam calls which generated voice that sound like someone you may know and ask you for money. I remember watching a video where they not only replicate a little girl’s voice but also generated a voice of what she will sound like when she becomes and adult. They also used her photos and predict what she will look like when she grows up.  Learning about what AI can do has certainly raised a lot of ethical issues that we should take into considerations !
+
