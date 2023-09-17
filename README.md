@@ -17,7 +17,19 @@ Another interesting read, [The Responsibility Held by Great Tech](https://medium
 
 Thanks for reading. :heart:
 
+
+=======
+# Alvis's Thought 
+I recall back in the days when I was in the middle school there existed the kind of "artificial" songs where people out there tuning with some certain voice or timbre to make some funny broken songs. Now we have some fully functional AI that would generate nearly perfect (doubtfully) music pieces. Quite fast progeress of technology. I'm more concerned with those ethical issues of AI generated songs, like privacy and copyright, and I think they will soon bring a challenge to this industry. 
+
+# Lemon’s thoughts :
+
+I totally agree! It is, on one hand, the advancement of technology, but on the other hand, just because we `can` do it, `should` we do it ?
+
+This whole AI generated voice issue is ethically problematic  and goes beyond AI and music. There have been scam calls which generated voice that sound like someone you may know and ask you for money. I remember watching a video where they not only replicate a little girl’s voice but also generated a voice of what she will sound like when she becomes and adult. They also used her photos and predict what she will look like when she grows up.  Learning about what AI can do has certainly raised a lot of ethical issues that we should take into considerations !
+
 # [Anzhelika Nastashchuk's Comment](https://github.com/annsts)
 I really enjoyed reading these articles. It also made me thik fo this article that highlights the early adoption of AI tools by musicians before its mainstream surge: [link](https://pitchfork.com/thepitch/musicians-are-already-using-ai-more-often-than-we-think/). Beyond the ethical concerns of using AI in art—especially when replicating a specific artist's style—it raises intriguing questions about the broader impact of AI on our cognitive evolution.
 
 The internet already transformed human interactions and our access to knowledge. As AI technology advances rapidly, the concept of creating digital clones might soon become a reality. However, this brings forth complex issues about identity and the potential narcissism in some AI developments. It's worth pondering: What if an AI version of ourselves started managing our relationships? What if this tool is developed? Where does that leave our human essence? I guess we are living in interesting times. 
+=======
