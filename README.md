@@ -16,3 +16,8 @@ This article touches exactly that. The author tries to make a passable copy of t
 Another interesting read, [The Responsibility Held by Great Tech](https://medium.com/predict/the-responsibility-held-by-great-tech-3063d8e9f168), mentions how a retired 65-year-old criminal defence lawyer and former military personnel was renderred suicial due to an update to his AI partner, drastically reducing the depth of their relationship.
 
 Thanks for reading. :heart:
+
+# [Anzhelika Nastashchuk's Comment](https://github.com/annsts)
+I really enjoyed reading these articles. It also made me thik fo this article that highlights the early adoption of AI tools by musicians before its mainstream surge: [link](https://pitchfork.com/thepitch/musicians-are-already-using-ai-more-often-than-we-think/). Beyond the ethical concerns of using AI in art—especially when replicating a specific artist's style—it raises intriguing questions about the broader impact of AI on our cognitive evolution.
+
+The internet already transformed human interactions and our access to knowledge. As AI technology advances rapidly, the concept of creating digital clones might soon become a reality. However, this brings forth complex issues about identity and the potential narcissism in some AI developments. It's worth pondering: What if an AI version of ourselves started managing our relationships? What if this tool is developed? Where does that leave our human essence? I guess we are living in interesting times. 
