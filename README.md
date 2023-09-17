@@ -17,10 +17,12 @@ Another interesting read, [The Responsibility Held by Great Tech](https://medium
 
 Thanks for reading. :heart:
 
+=======
+# Alvis's Thought 
+I recall back in the days when I was in the middle school there existed the kind of "artificial" songs where people out there tuning with some certain voice or timbre to make some funny broken songs. Now we have some fully functional AI that would generate nearly perfect (doubtfully) music pieces. Quite fast progeress of technology. I'm more concerned with those ethical issues of AI generated songs, like privacy and copyright, and I think they will soon bring a challenge to this industry. 
 
-## Lemon’s thoughts :
+# Lemon’s thoughts :
 
 I totally agree! It is, on one hand, the advancement of technology, but on the other hand, just because we `can` do it, `should` we do it ?
 
 This whole AI generated voice issue is ethically problematic  and goes beyond AI and music. There have been scam calls which generated voice that sound like someone you may know and ask you for money. I remember watching a video where they not only replicate a little girl’s voice but also generated a voice of what she will sound like when she becomes and adult. They also used her photos and predict what she will look like when she grows up.  Learning about what AI can do has certainly raised a lot of ethical issues that we should take into considerations !
-
