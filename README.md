@@ -30,3 +30,11 @@ This whole AI generated voice issue is ethically problematic  and goes beyond AI
 I really enjoyed reading these articles. It also made me thik fo this article that highlights the early adoption of AI tools by musicians before its mainstream surge: [link](https://pitchfork.com/thepitch/musicians-are-already-using-ai-more-often-than-we-think/). Beyond the ethical concerns of using AI in art—especially when replicating a specific artist's style—it raises intriguing questions about the broader impact of AI on our cognitive evolution.
 
 The internet already transformed human interactions and our access to knowledge. As AI technology advances rapidly, the concept of creating digital clones might soon become a reality. However, this brings forth complex issues about identity and the potential narcissism in some AI developments. It's worth pondering: What if an AI version of ourselves started managing our relationships? What if this tool is developed? Where does that leave our human essence? I guess we are living in interesting times. 
+
+# Angela(Xinran)'s thoughts:
+
+It's fascinating to see how AI technology has advanced to the point where it can create music and even replicate human voices so convincingly. I completely agree that this raises important ethical questions.
+
+As developers, it's crucial to exercise responsibility when creating and distributing AI tools. The line between what's okay to release to the public and what isn't can be very blurry. It's important to consider the potential consequences and societal impact of AI technologies, and developers should actively engage in discussions about ethical guidelines and regulations surrounding AI.
+
+As users, It's vital to be aware of the potential harm that can arise from AI-generated content and to use these tools responsibly. Being discerning consumers of AI-generated content, questioning its authenticity, and advocating for responsible AI use are steps we can take to ensure we don't cross the line into unethical behavior.
