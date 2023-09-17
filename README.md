@@ -18,4 +18,4 @@ Another interesting read, [The Responsibility Held by Great Tech](https://medium
 Thanks for reading. :heart:
 
 #Alvis's Thought 
-I think back in the days when I was in the middle school there existed the kind of "artificial" songs where people out there tuning with some certain voice or timbre to make some funny broken songs. Now we have some fully functional AI that would generate nearly perfect (doubtfully) music pieces. Quite fast progeress of technology. I'm more concerned with those ethical issues of AI generated songs, like privacy and copyright, and I think they will soon bring a challenge to this industry. 
+I recall back in the days when I was in the middle school there existed the kind of "artificial" songs where people out there tuning with some certain voice or timbre to make some funny broken songs. Now we have some fully functional AI that would generate nearly perfect (doubtfully) music pieces. Quite fast progeress of technology. I'm more concerned with those ethical issues of AI generated songs, like privacy and copyright, and I think they will soon bring a challenge to this industry. 
