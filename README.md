@@ -16,3 +16,6 @@ This article touches exactly that. The author tries to make a passable copy of t
 Another interesting read, [The Responsibility Held by Great Tech](https://medium.com/predict/the-responsibility-held-by-great-tech-3063d8e9f168), mentions how a retired 65-year-old criminal defence lawyer and former military personnel was renderred suicial due to an update to his AI partner, drastically reducing the depth of their relationship.
 
 Thanks for reading. :heart:
+
+#Alvis's Thought 
+I think back in the days when I was in the middle school there existed the kind of "artificial" songs where people out there tuning with some certain voice or timbre to make some funny broken songs. Now we have some fully functional AI that would generate nearly perfect (doubtfully) music pieces. Quite fast progeress of technology. I'm more concerned with those ethical issues of AI generated songs, like privacy and copyright, and I think they will soon bring a challenge to this industry. 
